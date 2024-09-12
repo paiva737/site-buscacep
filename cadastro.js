@@ -3,7 +3,7 @@ const form = document.forms.cadastro;
 const mensagemErro = document.querySelector("#mensagemErro");
 const {nome, celular, cpf, email, senha, confirmaSenha, numCartao, codigoSeg, dataValidade} = form;
 const botaoSalvar = document.getElementById('botao_buscar');
-const urlLogin = 'file:///Users/rafaelpaiva/Desktop/JS:HTML:CSS/Site%20Correio/telaLogin.html';
+const urlLogin = '/telaLogin.html';
 
 
 

@@ -20,12 +20,12 @@ btnBuscar.addEventListener('click', (e) => {
 })
 
 btnLimpar.addEventListener('click', () => {
-    limparCampos();
+    limpaCampos();
 })
 
 btnSalvar.addEventListener('click', () => {
     alert("Dados salvos com sucesso!!!");
-    limparCampos();
+    limpaCampos();
 })
 
 function preencheCampos(endereço){

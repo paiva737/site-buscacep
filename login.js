@@ -1,8 +1,8 @@
 const botaoRegistrar = document.getElementById('registrar');
 const esqueciSenha = document.getElementById('esqueci');
-const urlCadastro = 'file:///Users/rafaelpaiva/Desktop/JS:HTML:CSS/Site%20Correio/cadastro.html';
-const urlEsqueciSenha = 'file:///Users/rafaelpaiva/Desktop/JS:HTML:CSS/Site%20Correio/esquecisenha.html';
-const urlHome = 'file:///Users/rafaelpaiva/Desktop/JS:HTML:CSS/Site%20Correio/menuhome.html?';
+const urlCadastro = '/cadastro.html';
+const urlEsqueciSenha = '/esquecisenha.html';
+const urlHome = '/menuhome.html';
 const botaoEntra = document.getElementById('entrar');
 
 

@@ -1,4 +1,4 @@
-const urlLogin = 'file:///Users/rafaelpaiva/Desktop/JS:HTML:CSS/Site%20Correio/telaLogin.html?#'
+const urlLogin = '/telaLogin.html'
 const botaoLink = document.getElementById('enviarlink');
 
 botaoLink.addEventListener('click', function(event){
